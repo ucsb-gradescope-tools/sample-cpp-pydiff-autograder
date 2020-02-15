@@ -11,6 +11,7 @@ The reference output will be in the reference-output directory. Each test has an
 To grade the solution in STUDENT-SOLUTION-1 (or any other directory):
 
 > ./MAKE-REFERENCE.sh
+
 > ./grade.sh STUDENT-SOLUTION-1
 
 The results will be in results.json.
